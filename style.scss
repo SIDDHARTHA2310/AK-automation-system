@@ -142,7 +142,7 @@ a:focus {
 }
 
 .custom_nav-container .nav_search-btn {
-  background-image: url(../search-icon.png);
+  background-image: url(search-icon.png);
   background-size: 22px;
   background-repeat: no-repeat;
   background-position-y: 7px;
@@ -301,13 +301,13 @@ a:focus {
   }
 
   .carousel-control-prev {
-    background-image: url(../prev.png);
+    background-image: url(prev.png);
     background-color: $white;
     transform: translate(-85px, 30px);
   }
 
   .carousel-control-next {
-    background-image: url(../next.png);
+    background-image: url(next.png);
     background-color: $primary1;
     transform: translate(-45px, 0);
   }
